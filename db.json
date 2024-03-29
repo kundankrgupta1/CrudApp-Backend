@@ -1,0 +1,14 @@
+{
+	"todos": [
+		{
+			"title": "Kumar",
+			"status": true,
+			"id": "309e6092-733a-402b-abcb-b72d355c0c0b"
+		},
+		{
+			"title": "Kumar",
+			"status": false,
+			"id": "2d780089-f96a-4544-baa9-19dde9e2f5dd"
+		}
+	]
+}
